@@ -15,7 +15,7 @@ A full-stack CRUD application for managing staff records.
 * **View:** See individual employee profiles.
 
 ### 🚀 Quick Start
-1. **DB:** Create a schema named `employee_db` in MySQL.
+1. **DB:** Create a schema named `employee_management_db` in MySQL.
 2. **Backend:** Run `mvn spring-boot:run` (Update `application.properties`).
 3. **Frontend:** Run `npm install` then `ng serve`.
 4. **Access:** Open [http://localhost:4200](http://localhost:4200).
